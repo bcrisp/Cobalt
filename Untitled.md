@@ -24,4 +24,13 @@ Think of this like an "interface" in OOP. A Java class inheriting "Comparable" c
 
 Let the objects sit in space, outside our reach or control. They have certain ways of interacting with each other. For instance, there's an idea of semi-permanance so they're not floating around popping in and out of existence. Secondly, they're identifiable in some way more than cardinality. If these objects were able to be transposed without detection, then we automatically lose a certain set of morphisms over the class.
 
+So let the items be there. What is the barest modicum of presuppositions? That we can actually discriminate empty space from object-occupied foreground and that we have a rough correspondence with time (if I forget a 10-minute interval of object manipulation, it's unlikely structural operations will make sense to me).
+
+#### For the epistemologists
+There are a number of questions we might have about how "outside" reality links with our perception of reality, but we'll leave these concerns to Immanuel Kant and navïvely take your word for it; if you see n-number of objects, that's how it is.
+
+This gets down to a very fuzzy line between "something" and "nothing". After all, what can we say about something that isn't there?
+
+We can call it the "null set" or make it an identity object, but this question of what separates the existence vs. non-existence of things will be revisited at a future point.
+
 ### Algebras of a Kind
