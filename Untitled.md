@@ -20,17 +20,33 @@ This is critical jump, because we no longer care about things anymore. If I have
 
 Think of this like an "interface" in OOP. A Java class inheriting "Comparable" can be sorted by the mere knowledge that items may be compared. The fact that it's a SortedList doesn't matter, any structure can be sorted if the underlying items support sorting.
 
-### The movement from objects to numbers, the move from operations to morphisms.
+### The movement from objects to numbers, the move from operations to morphisms. (Level 3 heading)
 
 Let the objects sit in space, outside our reach or control. They have certain ways of interacting with each other. For instance, there's an idea of semi-permanance so they're not floating around popping in and out of existence. Secondly, they're identifiable in some way more than cardinality. If these objects were able to be transposed without detection, then we automatically lose a certain set of morphisms over the class.
 
 So let the items be there. What is the barest modicum of presuppositions? That we can actually discriminate empty space from object-occupied foreground and that we have a rough correspondence with time (if I forget a 10-minute interval of object manipulation, it's unlikely structural operations will make sense to me).
 
-#### For the epistemologists
+#### For the epistemologists (Level 4 heading)
 There are a number of questions we might have about how "outside" reality links with our perception of reality, but we'll leave these concerns to Immanuel Kant and navïvely take your word for it; if you see n-number of objects, that's how it is.
 
 This gets down to a very fuzzy line between "something" and "nothing". After all, what can we say about something that isn't there?
 
 We can call it the "null set" or make it an identity object, but this question of what separates the existence vs. non-existence of things will be revisited at a future point.
+
+*Starting point*
+
+I wanted this line about epistemology to be a brief sidestep to get back to the main point about pre-conditions. But right here, in this paragraph, I have no good way of doing so.
+
+I can start a new subsection at the same level as this section, and I can go a level deeper. Let's try that.
+
+#### This is the same level (Level 4 Heading)
+Hello from epistemologists side-step!
+
+##### This is a level down (Level 5 Heading)
+Hi!
+
+I'm now two levels removed from where I wanted to be, and there's still no way to get back to the conversational chain I had beforehand. I'll break out of this by creating a new Level 3 heading.
+
+This all serves a point. The idea that a process or paragraph block can "hand off" control to another process or paragraph and potentially never recover their context is an extremely important one.
 
 ### Algebras of a Kind
