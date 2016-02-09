@@ -49,4 +49,14 @@ I'm now two levels removed from where I wanted to be, and there's still no way t
 
 This all serves a point. The idea that a process or paragraph block can "hand off" control to another process or paragraph and potentially never recover their context is an extremely important one.
 
+### Definitions
+
+A category consists of objects and morphisms that link objects to other objects. This can be viewed as a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) but doesn't have to be. In fact, viewing categories as directed graphs can become limiting when abstractions come into play.
+
+Again, a category consists of objects and morphisms. A morphism from a -> b entails some kind of connection, but again, it may be more helpful to view this as a kind of logical implication rather than an edge connecting two vertices.
+
+There may be a number of objects and a number of morphisms (also called "arrows") that link them. Think of a kind of network, with objects linked to each other like beads sewn into a tapestry.
+
+
+
 ### Algebras of a Kind
